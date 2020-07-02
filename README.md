@@ -10,19 +10,25 @@ ideally i would like some colored divs, so probably html
 
 # Technology and Math
 
-I spend most of my time using:
+**I spend most of my time using:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/language_logos/python.png" alt="python" height="100"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/language_logos/sql.png" alt="sql" height="100"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/language_logos/python.png" alt="python" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/language_logos/sql.png" alt="sql" height="75"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/language_logos/pandas.png" alt="pandas" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/language_logos/seaborn.png" alt="seaborn" height="75"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/language_logos/pandas.png" alt="pandas" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/language_logos/seaborn.png" alt="seaborn" height="75"/>
 
 
-My mathematical interests are predominantly in:
+**My mathematical interests are predominantly in:**
 
 |Representation Theory | Harmonic Analysis  |   Abstract Algebra|
 |Lie/Reductive Group Theory  |   Linear Algebra  |   Fourier Analysis|
+|Functional Analysis|Graph Theory|
 
-Additionally, I am familiar with:
+**Additionally, I am familiar with:**
+
+|NumPy|Matplotlib|Power BI|
+|Scikit|SciPy|
+|Git|Docker|AWS|
+
 
 
 
