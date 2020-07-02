@@ -7,11 +7,13 @@ regular paragraph
 
 can force whitespace:
 
-![Python](./assets/language_logos/python.png) &nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp;   
+![Python](./assets/language_logos/python.png) &nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp;  bean
 
-or use a table:
-| ![Python](./assets/language_logos/python.png) &nbsp; Python  | ![Python](./assets/language_logos/python.png) &nbsp; Python | 
-| ![Python](./assets/language_logos/python.png) &nbsp; Python| ![Python](./assets/language_logos/python.png) &nbsp; Python   | 
+try to control size with markdown:
+![Python](./assets/language_logos/python.png =50x) &nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp;  bean
+
+or use html tag
+<img src="./assets/language_logos/python.png" alt="python" width="50"/> Python &nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/language_logos/sql.png" alt="sql" width="50"/>SQL
 
 
 # Technology and Math
