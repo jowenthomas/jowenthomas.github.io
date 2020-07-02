@@ -2,15 +2,17 @@
 
 regular paragraph
 
-<h3>do html tags work</h3>
+<h3>html tags work, should I need them</h3>
 
-the following images should be next to each other:
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)  ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+can force whitespace:
 
-the following image should have text to the right of it:
+![Python](./assets/language_logos/python.png) &nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp;   
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) bean toon
+or use a table:
+| ![Python](./assets/language_logos/python.png) &nbsp; Python  | ![Python](./assets/language_logos/python.png) &nbsp; Python | 
+| ![Python](./assets/language_logos/python.png) &nbsp; Python| ![Python](./assets/language_logos/python.png) &nbsp; Python   | 
+
 
 # Technology and Math
 
