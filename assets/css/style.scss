@@ -3,10 +3,16 @@
 
 @import "{{ site.theme }}";
 
-#projects {
+#proj {
   background-color: #d5f4e6;
 }
 
-a {
+.proj {
+  background-color: #d5f4e6;
+}
+
+#projTitle {
   color: black;
+  font-size: 15px;
+  text-decoration: underline;
 }
