@@ -1,23 +1,36 @@
 # Projects
 
-regular paragraph
-
-<h3>html tags work, should I need them</h3>
+ideally i would like some colored divs, so probably html
 
 
-can force whitespace:
 
-![Python](./assets/language_logos/python.png) &nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp;  bean
 
-try to control size with markdown:
-![Python](./assets/language_logos/python.png =50x) &nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp;  bean
 
-or use html tag
-<img src="./assets/language_logos/python.png" alt="python" width="50"/> Python &nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/language_logos/sql.png" alt="sql" width="50"/>SQL
 
 
 # Technology and Math
 
+I spend most of my time using:
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/language_logos/python.png" alt="python" height="50"/> 
+<p>    </p> 
+<img src="./assets/language_logos/sql.png" alt="sql" height="50"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/language_logos/pandas.png" alt="python" height="50"/> 
+<p>        </p> 
+<img src="./assets/language_logos/sql.png" alt="sql" height="50"/>
+
+
+My mathematical interests are predominantly in:
+
+<h4>   Representation Theory     Harmonic Analysis     Abstract Algebra</h4>
+
+<h4>   Lie/Reductive Group Theory     Linear Algebra     Fourier Analysis</h4>
+
+|Representation Theory | Harmonic Analysis  |   Abstract Algebra</h4>
+|Lie/Reductive Group Theory  |   Linear Algebra  |   Fourier Analysis</h4>
+
+Additionally, I am familiar with:
 
 
 
