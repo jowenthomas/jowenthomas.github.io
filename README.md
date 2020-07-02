@@ -1,11 +1,11 @@
 # Projects
 
-<div background-color: lightblue;>
+<div>
 <a href="google.com" target="_blank">Project Title</a>
 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mollis, metus et commodo feugiat, erat dolor molestie odio, nec ultricies risus urna sed urna. Nullam quam ligula, fermentum ut faucibus mattis, consequat ullamcorper massa. Morbi sodales quis lacus sit amet finibus. Morbi nec risus ut erat facilisis tincidunt et viverra urna.</p>
 </div>
 
-<div background-color: lightblue;>
+<div>
 <a href="google.com" target="_blank">Project Title</a>
 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mollis, metus et commodo feugiat, erat dolor molestie odio, nec ultricies risus urna sed urna. Nullam quam ligula, fermentum ut faucibus mattis, consequat ullamcorper massa. Morbi sodales quis lacus sit amet finibus. Morbi nec risus ut erat facilisis tincidunt et viverra urna.</p>
 </div>
