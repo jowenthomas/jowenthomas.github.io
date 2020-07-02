@@ -3,6 +3,10 @@
 
 @import "";
 
-#projects# {
+#projects {
   background-color: #d5f4e6;
+}
+
+a {
+  color: black;
 }
