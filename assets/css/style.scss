@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 #header_wrap {
-  background-color: linear-gradient(to top, #20292f, #36454f) !important;
+  background-color: #36454f !important;
 }
 
 #main_content_wrap {
@@ -12,11 +12,11 @@
 }
 
 #footer_wrap {
-  background-color: linear-gradient(to top, #36454f, #20292f);
+  background-color: #36454f;
 }
 
 .proj {
-  background-color: #c2c7ca;
+  background-color: #aeb4b8;
 }
 
 a {
