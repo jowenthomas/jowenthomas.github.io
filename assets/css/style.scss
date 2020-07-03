@@ -4,15 +4,15 @@
 @import "{{ site.theme }}";
 
 #header_wrap {
-  background-color: linear-gradient(to top, #20292f, #36454f);
+  background-color: linear-gradient(to top, #20292f, #36454f) !important;
 }
 
 #main_content_wrap {
-  background-color: #a8b2b2;
+  background-color: #d3d8d8;
 }
 
 #footer_wrap {
-  background-color: #36454f;
+  background-color: linear-gradient(to top, #36454f, #20292f);
 }
 
 .proj {
