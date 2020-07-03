@@ -1,8 +1,12 @@
 # Projects
 
 <div class="proj">
-<a href="google.com" target="_blank">Project Title</a>
+<h3>Project Title</h3>
 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mollis, metus et commodo feugiat, erat dolor molestie odio, nec ultricies risus urna sed urna. Nullam quam ligula, fermentum ut faucibus mattis, consequat ullamcorper massa. Morbi sodales quis lacus sit amet finibus. Morbi nec risus ut erat facilisis tincidunt et viverra urna.</p>
+
+<a href="google.com" target="_blank">Project Link</a>
+
+<p>Tech: python, SQL</p>
 </div>
 
 <div class="proj">
@@ -49,55 +53,4 @@
 
 
 # Education
-
-
-
-
-
-
-Text: **bold**, _italic_, or ~~strikethrough~~.
-
-[Link](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-
-
 
