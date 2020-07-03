@@ -1,12 +1,12 @@
 # Projects
 
 <div class="proj">
-<h3>Project Title</h3>
+<h3>Applications of Linear Algebra</h3>
 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mollis, metus et commodo feugiat, erat dolor molestie odio, nec ultricies risus urna sed urna. Nullam quam ligula, fermentum ut faucibus mattis, consequat ullamcorper massa. Morbi sodales quis lacus sit amet finibus. Morbi nec risus ut erat facilisis tincidunt et viverra urna.</p>
 
-<a href="google.com" target="_blank">Project Link</a>
+<a href="https://jowenthomas.github.io/linear-algebra-applications/" target="_blank">Project Link</a>
 
-<p>Tech: python, SQL</p>
+<p>Tech: python, NLP via ...
 </div>
 
 <div class="proj">
