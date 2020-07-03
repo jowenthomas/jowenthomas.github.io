@@ -3,12 +3,8 @@
 
 @import "{{ site.theme }}";
 
-header {
-  background-color: #36454f;
-}
-
 #header_wrap {
-  background-color: #36454f;
+  background-color: linear-gradient(to top, #20292f, #36454f);
 }
 
 #main_content_wrap {
