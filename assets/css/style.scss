@@ -4,19 +4,19 @@
 @import "{{ site.theme }}";
 
 #header_wrap {
-  background-image: linear-gradient(to top, #3f5d3d, #273a26);
+  background-image: linear-gradient(to top, #483d41, #2b2427);
 }
 
 #main_content_wrap {
-  background-color: #d4d3d3;
+  background-color: #d4d2d1;
 }
 
 #footer_wrap {
-  background-image: linear-gradient(to top, #273a26,#3f5d3d);
+  background-image: linear-gradient(to top, #2b2427,#483d41);
 }
 
 .proj {
-  background-color: #b4b3b2;
+  background-color: #b8b5b3;
 }
 
 a {
