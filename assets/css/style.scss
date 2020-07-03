@@ -3,8 +3,9 @@
 
 @import "{{ site.theme }}";
 
-.site-header {
+#header_wrap {
   background-color: #36454f !important;
+  background-image: linear-gradient(to top, #36454f, #20292f);
 }
 
 #main_content_wrap {
