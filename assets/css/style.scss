@@ -3,11 +3,19 @@
 
 @import "{{ site.theme }}";
 
-body {
+header {
+  background-color: #36454f;
+}
+
+#header_wrap {
+  background-color: #36454f;
+}
+
+.main_content_wrap {
   background-color: #a8b2b2;
 }
 
-header {
+#footer_wrap {
   background-color: #36454f;
 }
 
