@@ -6,7 +6,7 @@
 
 <a href="https://jowenthomas.github.io/linear-algebra-applications/" target="_blank">Project Link</a>
 
-<p>Tech: python, NLP via ...
+<p>Tech: python, NLP via ...</p>
 </div>
 
 <div class="proj">
