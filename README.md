@@ -6,11 +6,11 @@
 
 <ul> 
   <li><a href="https://jowenthomas.github.io/linear-algebra-applications/" target="_blank">Introduction</a></li>
-<li><a href="https://jowenthomas.github.io/linear-algebra-applications/pages/matrices-as-images.html" target="_blank">Matrices as Images</a></li>
-<li><a href="https://jowenthomas.github.io/linear-algebra-applications/pages/higher-dimensions-and-linear-regression.html" target="_blank">Higher Dimensions and Linear Regression</a></li>
-<li><a href="https://jowenthomas.github.io/linear-algebra-applications/pages/euclidean-distance-a-recommendation-engine-using-nearest-neighbors.html" target="_blank">Euclidean Distance: A Recommendation Engine Using Nearest Neighbors</a></li>
-<li><a href="https://jowenthomas.github.io/linear-algebra-applications/pages/matrix-multiplication-to-find-connecting-flights.html" target="_blank">Matrix Multiplication to Find Connecting Flights</a></li>
-<li><a href="https://jowenthomas.github.io/linear-algebra-applications/pages/adjacency-matrices-for-descriptors-in-dracula.html" target="_blank">Adjacency Matrices for Descriptors in Dracula</a></li>
+<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/matrices-as-images.html" target="_blank">Matrices as Images</a></li>
+<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/higher-dimensions-and-linear-regression.html" target="_blank">Higher Dimensions and Linear Regression</a></li>
+<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/euclidean-distance-a-recommendation-engine-using-nearest-neighbors.html" target="_blank">Euclidean Distance: A Recommendation Engine Using Nearest Neighbors</a></li>
+<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/matrix-multiplication-to-find-connecting-flights.html" target="_blank">Matrix Multiplication to Find Connecting Flights</a></li>
+<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/adjacency-matrices-for-descriptors-in-dracula.html" target="_blank">Adjacency Matrices for Descriptors in Dracula</a></li>
 </ul>
 
 <p>Tech: Python, NumPy, Matplotlib, SciPy, NLP using NLTK</p>
