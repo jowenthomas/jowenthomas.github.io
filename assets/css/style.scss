@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+html {
+  font-family: Arvo, Monaco, serif;
+}
+
 #header_wrap {
   background-image: linear-gradient(to top, #483d41, #2b2427);
 }
