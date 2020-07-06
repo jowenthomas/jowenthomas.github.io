@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 body {
-  font-family: Arvo, Monaco, serif;
+  font-family: Arvo, Monaco, serif !important;
 }
 
 #header_wrap {
