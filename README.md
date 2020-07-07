@@ -13,7 +13,7 @@
 <li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/adjacency-matrices-for-descriptors-in-dracula.html" target="_blank">Adjacency Matrices for Descriptors in Dracula</a></li>
 </ul>
 
-<p>Tech: Python, NumPy, Matplotlib, SciPy, NLP using NLTK</p>
+<p>Tech: Python, NumPy, Matplotlib, SciPy, NLTK</p>
 </div>
 
 
