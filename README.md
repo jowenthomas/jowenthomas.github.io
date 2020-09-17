@@ -6,7 +6,7 @@
 
 <a href="https://public.tableau.com/profile/john.thomas3702#!/vizhome/BookReviews_15998434359980/BooksReleasedbyPublisher" target="_blank">View on Tableau Public</a>
 
-<p>**Summary of Findings:** While the dataset did not label self-published works, our first visualization provides strong evidence (specifically, the number of publishers who released between 1-10 books) that they constitute a substantial portion of the market.  As such, any further exploration of market trends needs to account for the tools available to these individuals (certainly, such <a href='https://www.nytimes.com/2011/05/22/books/review/the-case-for-self-publishing.html' target="_blank">discussions</a> have occurred within the community for some time).  Our left-most pie-chart indicates that the top 15 publishers (with all of their subsidiaries or partnerships this is, in practice, 475 publishers) released a quarter of all books in the time periods reviewed.  Within this group, as indicated in the next pie chart, five publishers account for 51% of books released.  Our first histogram on annual activity highlights that the 1990's were the most active years.  Finally, our second histogram on user reviews indicates that a strong majority of books released are not reviewed, which holds across the top 15 fairly consistently.  </p>
+<p>**<strong>Summary of Findings:</strong>**  While the dataset did not label self-published works, our first visualization provides strong evidence (specifically, the number of publishers who released between 1-10 books) that they constitute a substantial portion of the market.  As such, any further exploration of market trends needs to account for the tools available to these individuals (certainly, such <a href='https://www.nytimes.com/2011/05/22/books/review/the-case-for-self-publishing.html' target="_blank">discussions</a> have occurred within the community for some time).  Our left-most pie-chart indicates that the top 15 publishers (with all of their subsidiaries or partnerships this is, in practice, 475 publishers) released a quarter of all books in the time periods reviewed.  Within this group, as indicated in the next pie chart, five publishers account for 51% of books released.  Our first histogram on annual activity highlights that the 1990's were the most active years.  Finally, our second histogram on user reviews indicates that a strong majority of books released are not reviewed, which holds across the top 15 fairly consistently.  </p>
 
 <p>Tech: Tableau</p>
 </div>
@@ -57,18 +57,22 @@
 
 
 # Education
-Rutgers University, Ph.D. in Mathematics
+Rutgers University, Ph.D. in Mathematics  
 Dissertation approved and defended; degree to be conferred October 2020
 
-**Relevant subfields:** Harmonic analysis, Representation theory, (Algebraic/Lie) Group theory
+**Relevant subfields:** 
+Harmonic analysis, Representation theory, (Algebraic/Lie) Group theory
 
-**Dissertation:** Towards Stable-Stable Transfer Involving Symplectic Groups
+**Dissertation:** 
+Towards Stable-Stable Transfer Involving Symplectic Groups
 
-**Overview:** Our work is situated at the intersection of two domains.  On the one hand, the methods of Fourier and harmonic analysis have been broadly applied, both in theoretical and applied work.  A testament to the robustness of the theory is the diversity of its applications, which include number theory, combinatorics, statistics, music theory, and physics, to name very few.  On the other hand, symplectic matrices, in part because of their volume and orientation preserving properties, have been receiving increasing amounts of attention in recent years.  For example, their utility is being leveraged in the development of quantum theory.
+**Overview:** 
+Our work is situated at the intersection of two domains.  On the one hand, the methods of Fourier and harmonic analysis have been broadly applied, both in theoretical and applied work.  A testament to the robustness of the theory is the diversity of its applications, which include number theory, combinatorics, statistics, music theory, and physics, to name very few.  On the other hand, symplectic matrices, in part because of their volume and orientation preserving properties, have been receiving increasing amounts of attention in recent years.  For example, their utility is being leveraged in the development of quantum theory.
 
 However, applying the methods of harmonic analysis to groups of symplectic matrices has been inhibited by the complicated structure of these groups. Our work achieves a fundamental perspective of this structure, which we refer to as the lattices of maximal tori, using direct methods, thus significantly reducing the amount of prerequisite knowledge for the reader.  We use this structure to develop the so-called transfer formulas necessary for performing the desired harmonic analysis.
 
-**Abstract:** This thesis investigates the transfer formulas for orbital integrals, in the context of the modern Langlands' program for reductive algebraic groups. In the modern theory, there are two very different transfer theorems to be accomplished. First, there is endoscopic transfer, which relates, via an appropriate embedding of their L-groups,
+**Abstract:** 
+This thesis investigates the transfer formulas for orbital integrals, in the context of the modern Langlands' program for reductive algebraic groups. In the modern theory, there are two very different transfer theorems to be accomplished. First, there is endoscopic transfer, which relates, via an appropriate embedding of their L-groups,
 a given group to a particular family of groups, its endoscopic groups. Here, deep theorems are known in great generality. Such a theory, however, is preliminary to the
 second transfer, which is much less understood. At the same time, this second transfer is generally viewed as the more fundamental of the two, involving any connected
 reductive group related to the given group by an L-homomorphism.
