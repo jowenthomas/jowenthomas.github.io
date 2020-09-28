@@ -1,4 +1,4 @@
-# Projects
+# Projects<a name="projects"></a>
 
 <div class="proj">
 <h3>Dashboard: Top Book Publishers</h3>
@@ -29,7 +29,7 @@
 
 
 
-# Technology and Math
+# Technology and Math<a name="techmath"></a>
 
 **I spend most of my time using:**
 
@@ -56,7 +56,7 @@
 
 
 
-# Education
+# Education<a name="education"></a>
 Rutgers University, Ph.D. in Mathematics  
 Dissertation approved and defended; degree to be conferred October 2020
 
