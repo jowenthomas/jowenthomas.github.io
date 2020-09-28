@@ -3,24 +3,12 @@
 
 @import "{{ site.theme }}";
 
-* {
-  font-family: Arvo, Monaco, serif !important;
-}
-
-#header_wrap {
+header {
   background-image: linear-gradient(to top, #483d41, #2b2427);
 }
 
-#main_content_wrap {
+body {
   background-color: #d4d2d1;
-}
-
-#footer_wrap {
-  background-image: linear-gradient(to top, #2b2427,#483d41);
-}
-
-.proj {
-  background-color: #b8b5b3;
 }
 
 a {
@@ -28,3 +16,7 @@ a {
   font-size: 15px;
   text-decoration: underline;
 }
+.proj {
+  background-color: #b8b5b3;
+}
+
