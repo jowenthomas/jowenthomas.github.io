@@ -6,6 +6,7 @@
 
 <a href="https://public.tableau.com/profile/john.thomas3702#!/vizhome/BookReviews_15998434359980/BooksReleasedbyPublisher" target="_blank">View on Tableau Public</a>
 
+
 <p><strong>Summary of Findings:</strong>  While the dataset did not label self-published works, our first visualization provides strong evidence (specifically, the number of publishers who released between 1-10 books) that they constitute a substantial portion of the market.  As such, any further exploration of market trends needs to account for the tools available to these individuals (certainly, such <a href='https://www.nytimes.com/2011/05/22/books/review/the-case-for-self-publishing.html' target="_blank">discussions</a> have occurred within the community for some time).  Our left-most pie-chart indicates that the top 15 publishers (with all of their subsidiaries or partnerships this is, in practice, 475 publishers) released a quarter of all books in the time periods reviewed.  Within this group, as indicated in the next pie chart, five publishers account for 51% of books released.  Our first histogram on annual activity highlights that the 1990's were the most active years.  Finally, our second histogram on user reviews indicates that a strong majority of books released are not reviewed, which holds across the top 15 fairly consistently.  </p>
 
 <p>Tech: Tableau</p>
@@ -16,12 +17,12 @@
 <p> The following articles serve to connect the topics in a linear algebra course to more modern and, hopefully, intriguing topics than is standard to discuss in the core curriculum.  Please note, these were written for use in the classroom and are, as such, more focused on discussion and exploration than a tight presentation of the results.</p>
 
 <ul> 
-  <li><a href="https://jowenthomas.github.io/linear-algebra-applications/" target="_blank">Introduction</a></li>
-<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/matrices-as-images.html" target="_blank">Matrices as Images</a></li>
-<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/higher-dimensions-and-linear-regression.html" target="_blank">Higher Dimensions and Linear Regression</a></li>
-<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/euclidean-distance-a-recommendation-engine-using-nearest-neighbors.html" target="_blank">Euclidean Distance: A Recommendation Engine Using Nearest Neighbors</a></li>
-<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/matrix-multiplication-to-find-connecting-flights.html" target="_blank">Matrix Multiplication to Find Connecting Flights</a></li>
-<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/adjacency-matrices-for-descriptors-in-dracula.html" target="_blank">Adjacency Matrices for Descriptors in Dracula</a></li>
+  <li><a href="https://jowenthomas.github.io/linear-algebra-applications/">Introduction</a></li>
+<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/matrices-as-images.html">Matrices as Images</a></li>
+<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/higher-dimensions-and-linear-regression.html" >Higher Dimensions and Linear Regression</a></li>
+<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/euclidean-distance-a-recommendation-engine-using-nearest-neighbors.html" >Euclidean Distance: A Recommendation Engine Using Nearest Neighbors</a></li>
+<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/matrix-multiplication-to-find-connecting-flights.html" >Matrix Multiplication to Find Connecting Flights</a></li>
+<li><a href="https://jowenthomas.github.io/linear-algebra-applications/assets/pages/adjacency-matrices-for-descriptors-in-dracula.html" >Adjacency Matrices for Descriptors in Dracula</a></li>
 </ul>
 
 <p>Tech: Python, NumPy, Matplotlib, SciPy, NLTK</p>
