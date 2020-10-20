@@ -71,7 +71,6 @@
 
 # Education<a name="education"></a>
 Rutgers University, Ph.D. in Mathematics  
-Dissertation approved and defended; degree to be conferred October 2020
 
 **Relevant subfields:** 
 Harmonic analysis, Representation theory, (Algebraic/Lie) Group theory
