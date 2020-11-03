@@ -2,7 +2,7 @@
 
 <div class="proj">
 <h3>Employee Attrition: Supervised Segmentation</h3>
-<p><a href='https://developer.ibm.com/patterns/data-science-life-cycle-in-action-to-solve-employee-attrition-problem/#description' target='_blank'>IBM</a> released data oriented towards identifying the cause of employee attrition.  We perform supervised segmentation on the given employee attributes and rank the most impactful individual variables that contribute to an employee leaving the company.  In the course of doing so, we provide a discussion on information gain and entropy, execute the pre-processing tasks required to execute our metrics, and identify fruitful paths for future work.</p>
+<p><a href='https://developer.ibm.com/patterns/data-science-life-cycle-in-action-to-solve-employee-attrition-problem/#description' target='_blank'>IBM</a> released data oriented towards identifying the cause of employee attrition.  We perform supervised segmentation on the given employee attributes and rank the most impactful individual variables that contribute to an employee leaving the company.  In the course of doing so, we provide a discussion on information gain and entropy, define and implement the pre-processing tasks required to execute our metrics, and identify fruitful paths for future work.</p>
 
 <a href="https://jowenthomas.github.io/business-applications/assets/pages/attrition.html" target="_blank">View Project</a>
 
