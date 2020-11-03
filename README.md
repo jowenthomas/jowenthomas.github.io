@@ -1,6 +1,16 @@
 # Projects<a name="projects"></a>
 
 <div class="proj">
+<h3>Employee Attrition: Supervised Segmentation</h3>
+<p><a href='https://developer.ibm.com/patterns/data-science-life-cycle-in-action-to-solve-employee-attrition-problem/#description' target='_blank'>IBM</a> released data oriented towards identifying the cause of employee attrition.  We perform supervised segmentation on the given employee attributes and rank the most impactful individual variables that contribute to an employee leaving the company.  In the course of doing so, we provide a discussion on information gain and entropy, a walkthrough of pre-processing tasks required to execute these metrics, and identify fruitful paths for future work.
+
+<a href="https://jowenthomas.github.io/business-applications/assets/pages/attrition.html" target="_blank">View Project</a>
+
+<p>Tech: Pandas, matplotlib</p>
+</div>
+
+
+<div class="proj">
 <h3>Dashboard: MoMa Artist Demographics</h3>
 <p>The Museum of Modern Art (MoMA) makes available data on the artists in their collection, which may be found on their <a href='https://github.com/MuseumofModernArt/collection' target='_blank'>github</a>.  Using these data, we have developed a dashboard that summarizes the available demographic information for the 15,236 artists included in their collection. </p>
 
