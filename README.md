@@ -1,6 +1,54 @@
 # Projects<a name="projects"></a>
 
 <div class="proj">
+<h3>Mobile Apps: Partial Environmental Analysis</h3>
+<p>From the perspective of gaps in market offerings that a new development company could leverage to launch a successful initial product, we aim in this project to understand trends in popular mobile apps. We will focus on behavior in the Google Play store and Apple iOS App store, and we will limit our attention to apps that are free to download and install. Broadly speaking, we will not account for political, economic, social, or legal factors, hence only performing part of the environmental analysis that such a company should complete.</p>
+<p>Ultimately, we will identify three areas in the Apple store (reference, health and beauty, and catalogs) and five areas in the Google store (health and fitness, house and home, art and design, personalization, and tools) in which a novel idea has the room to rise to a prominent position in the "leaderboards." The reasoning for including these and exluding other popular categories is included in the course of our discussion.</p>
+
+<a href="https://jowenthomas.github.io/business-applications/assets/pages/mobile%20apps%20environmental%20analysis.html">View Project</a>
+
+<p>Tech: Pandas, numpy</p>
+</div>
+
+<div class="proj">
+<h3>Product Reviews: Text Attributes</h3>
+<p>This project is a step towards assessing whether or not a review was considered helpful based on the substance of the text review. To this end, in this project we aim to better understand the structure of our collections of reviews (included are 568,454 reviews from 256,059 users spanning 74,258 products), and do so by augmenting the given dataset with eight variables to reveal text attributes. Specifically, we establish the following:</p>
+<ul>
+  <li>Length: A simple measure of the length of each text</li>
+  <li>LanguageDiversity: how rich is the language used</li>
+  <li>DescriptorDensity: the frequency with which adjectives and adverbs are used to modify or amplify meaning</li>
+  <li>MostFrequentDescriptors: a list of the words in the DescriptorDensity that are used with notable frequency</li>
+  <li>LongWordDensity: a method of insight into the general accessibility of a text</li>
+  <li>Personability: the amount of pronouns and possessives used in order to share personal experience</li>
+  <li>Storytelling: the level to which a text provides a narrative structure</li>
+  <li>SocialNetworkBinary: a binary measure of the extent to which a text leverages small group consensus</li>
+</ul>
+
+<a href="https://jowenthomas.github.io/business-applications/assets/pages/reviews.html">View Project</a>
+
+<p>Tech: Python, Pandas, NLTK</p>
+</div>
+
+<div class="proj">
+<h3>2020 IBM Data & AI Conference</h3>
+<h4>Data & AI Essentials Workshop</h4>
+<p>Through IBM Cloud Pak for Data, discussed standard practices for data wrangling, cleaning, preparation, and visualization.  Then, again working with the IBM CLoud Pak for Data as a Service, performed risk modeling for a lending scenario, based on UCI's German Credit dataset.  Discussed how to create projects within the environment, plug in data, integrate a cloud storage service, and associate a Watsom machine learning service instance via the API.  Performed data processing using a Data Refinery flow, including attribute removal and transformation, reviewing the automatic profiling, and exploratory visualization.  Reviewed the Watson Knowledge Catalogue and its functionality pertaining to data governance, quality, and consumption.  Then created a catalog, published our data asset to this catalog, and adjusted governance features to establish policies pertaining to data visibility of this public catalog.  Finally, we built a predictive model based on the random forest classifier algorithm with the SparkML API and saved it in the ML repository.  Completed this process with both Jupyter and AutoAI.</p>
+</div>
+
+<div class="proj">
+<h3>Vocabulary for French Literature: A Systematic Approach</h3>
+<p>Suppose you have been learning French and you feel ready to work your way through a reading list of French literature in French.  Using a corpus of eight classic texts, we let the texts themselves dictate which words we need to know in order to work through them. To do so, we will find the most common words (and look at some descriptive statistics to better define their utility) that occur within each individual text and across the entire corpus we have established for this project.</p>
+<p>Ultimately, we will identify a subset of each text's vocabulary that provides at least 90% coverage of the text, specifically the subset of words that are used more than once. Note that this does not imply that we will have 90% understanding of the text. Many of the single-use words carry a disproportionate share of the meaning-passing within a sentence.</p>
+<p>We finish by providing some functionality for exporting the results.</p>
+
+
+<a href="https://github.com/jowenthomas/data-applications/blob/master/french-literature-vocabulary/french%20literature%20truncated.ipynb" target='_blank'>View Project on Github</a>
+
+<p>Tech: Python, ebooklib, BeautifulSoup</p>
+</div>
+
+
+<div class="proj">
 <h3>Employee Attrition: Supervised Segmentation</h3>
 <p><a href='https://developer.ibm.com/patterns/data-science-life-cycle-in-action-to-solve-employee-attrition-problem/#description' target='_blank'>IBM</a> released data oriented towards identifying the cause of employee attrition.  We perform supervised segmentation on the given employee attributes and rank the most impactful individual variables that contribute to an employee leaving the company.  In the course of doing so, we provide a discussion on information gain and entropy, define and implement the pre-processing tasks required to execute our metrics, and identify fruitful paths for future work.</p>
 
