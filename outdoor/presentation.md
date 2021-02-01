@@ -1,10 +1,10 @@
 ## Title
 
-![png](./assets/slide1.png)
+![png](./assets/slide1.PNG)
 
 ## Who will benefit
 
-![png](./assets/slide2.png)
+![png](slide2.PNG)
 
 ## Data Source
 
