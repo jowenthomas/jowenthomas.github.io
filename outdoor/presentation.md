@@ -1,23 +1,23 @@
-## Title
+## Title:
 
-![png](slide.jpg)
+![png](slide1)
 
-## Who will benefit
+## Who will benefit:
 
 ![png](slide2)
 
-## Data Source
+## Data Source:
 
-![png](./assets/slide3)
+![png](slide3)
 
-## Our Model
+## Our Model:
 
-![png](./assets/slide4.png)
+![png](slide4)
 
-## Our Delivery
+## Our Delivery:
 
-![png](./assets/slide5.png)
+![png](slide5)
 
-## Add-ons
+## Add-ons:
 
-![png](./assets/slide6.png)
+![png](slide6)
