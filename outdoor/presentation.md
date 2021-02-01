@@ -1,14 +1,14 @@
 ## Title
 
-![png](./assets/slide1.PNG)
+![png](slide.jpg)
 
 ## Who will benefit
 
-![png](slide2.PNG)
+![png](slide2)
 
 ## Data Source
 
-![png](./assets/slide3.png)
+![png](./assets/slide3)
 
 ## Our Model
 
