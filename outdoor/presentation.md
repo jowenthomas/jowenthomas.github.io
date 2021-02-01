@@ -1,10 +1,10 @@
 ## Title
 
-![png](slide1.png)
+![png](./outdoor/slide1.png)
 
 ## Who will benefit
 
-![png](slide2.png)
+![png](/slide2.png)
 
 ## Data Source
 
