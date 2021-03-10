@@ -155,7 +155,7 @@ transfer. Our structural results apply to symplectic groups of all sizes and the
 
 
 # Self-Study<a name="selfstudy"></a>
-With my graduate work complete, I can focus the bulk of my attention on topics outside of pure math.  I will use this space to record courses, texts, or other materials I have found helpful.  In time, I would like to type up my additional documentation (e.g., problem solutions, summations), but for now, I will keep a simple list.
+With my graduate work complete, I can focus the bulk of my attention on topics outside of pure math.  I will use this space to record courses, texts, or other materials I have found helpful.  In time, I would like to type up my additional documentation (e.g., problem solutions, summaries), but for now, I will keep a simple list.
 
 <a href='https://www.coursera.org/learn/machine-learning' target='_blank'>Andrew Ng Machine Learning</a>
 
