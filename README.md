@@ -108,8 +108,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/language_logos/pandas.png" alt="pandas" height="75"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/language_logos/seaborn.png" alt="seaborn" height="75"/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./assets/language_logos/tableau.png" alt="sql" height="75"/>
-
 
 **My mathematical interests are predominantly in:**
 
@@ -154,3 +152,115 @@ on the ambient group is critical in their development.
 
 Specifically, our main focus is on a refined version of the structure of the lattice of maximal tori and on the role this plays in developing the concrete expressions for
 transfer. Our structural results apply to symplectic groups of all sizes and their inner forms, and we develop an explicit transfer formula in the rank one case.
+
+
+# Self-Study<a name="selfstudy"></a>
+With my graduate work complete, I can focus the bulk of my attention on topics outside of pure math.  I will use this space to record courses, texts, or other materials I have found helpful.  In time, I would like to type up my additional documentation (e.g., problem solutions, summations), but for now, I will keep a simple list.
+
+<a href='https://www.coursera.org/learn/machine-learning' target='_blank'>Andrew Ng Machine Learning</a>
+
+
+UMN <a href='http://www.stat.umn.edu/geyer/s19/5101/' target='_blank'>Statistics 5101</a>
+
+
+<a href='https://www.oreilly.com/library/view/data-science-for/9781449374273/' target='_blank'>Data Science for Business</a> by Foster Provost, Tom Fawcett
+
+
+CMU <a href='http://www.cs.cmu.edu/~tom/10701_sp11/' target='_blank'>10-701: Machine Learning</a>
+
+
+# Teaching Testimonials<a name="teaching"></a>
+Having now left academia, it is invigorating to look back on my years of teaching and the many delightful students with whom I had the opportunity to work.  My average review as an instructor was 4.56/5.00 (on the particular question, "I rate the teaching effectiveness of the instructor as:"), compared to the department average of 3.95/5.00 over the same period.  
+
+
+Some of the feedback I received: 
+
+
+"Before I had John as my instructor my interest in math was close to zero. My previous instructors had never bothered to go into detail about the reasoning behind "Why are we doing this?" John has gone above and beyond what is required of him. It is hard to express into words the gratitude I feel towards him as my professor. After having taken his math course I truly am now interested in taking more advanced math courses despite not requiring them."
+
+
+"He made me interested in a subject I usually struggle in and have me all the resources and materials needed to succeed in an effective and positive manner that made me actively want to learn."
+
+
+"Thomas is an incredibly clear, effective and helpful instructor. He consolidates information to the very basics that you need to know to answer math questions properly. Some teachers over complicate things but Thomas does the exact opposite. Thomas is a fantastic teaching assistant and deserves to become a professor one day."
+
+
+"Gave me advice that really worked with how i learn, he takes the time to understand what you struggle with. He also always tries to make time for extra hours when i need them."
+
+
+"Made students believe all could be successful regardless of the fact that they might not love the subject."
+
+
+"Professor Thomas was great, he always made sure that the class understood the material not only as numbers but as it relates to every day life. He made understanding mathematical concepts a lot easier. I would not change anything this semester. The professor was very helpful. "
+
+
+"He has taught me to not only apply the formulas but to understand the story behind each math problem."
+
+
+"Professor Thomas was the first math professor/teacher to actually teach in such a way that was more than just memorizing formulas and computing functions etc. I learned WHY certain things made sense and how one concept relates to another. The first my mind was blown was when I found out how to derive the derivatives of trig functions like secant etc, because I was only taught to memorize them. Another time my mind was blown was when I learned how to derive linear approximation from point slope formula. Overall an awesome teacher who told us constantly how smart and intellectual we are."
+
+
+"This instructor was very supportive and patient. He offered help above and beyond the call of duty. I appreciate his availability as well as breaking the information down to my level of understanding."
+
+
+"Professor Thomas is interested in student learning growth and does this through effective presentation of course material in addition to answering student questions. Review sessions were incredibly helpful along with the written exam study guides."
+
+
+"He honestly inspired me to become more interested in the world of math."
+
+
+"He was very open to questions and that helped with my understanding of statistics."
+
+
+"Professor Thomas is awesome, super thankful for his disciplined way of teaching!"
+
+
+"He taught me to think outside the box and everything is not as simple as it seems."
+
+
+"The way he presented the material made it so easy to comprehend everything. It actually made me look forward to going to class and made me want to learn everything. 15/10 I would take John Thomas again as a professor because of how well he taught, as well as encouraging us to do our best. I’m extremely grateful to have taken this course with him and i’m glad I took this summer class!"
+
+
+"Thomas is a great professor, he understands students and give them the opportunity to solve problems in their own ways as long as they use algebra, he explains the material really well , and encourage students to learn the reason why we need math."
+
+
+"He is a really good professor! He made sure we understood the information and always showed great enthusiasm whenever students asked a question. I understood all the lessons he taught and the notes were really useful!"
+
+
+"John i thought you were good in English but it seems your great in math too you are such a great well rounded individual and i truly look up to you"
+
+
+"Created a very good learning environment. Very helpful and approachable."
+
+
+"I really appreciated all the things this professor did. He made sure we understood the course content and always developed new way of explaining things to make it easier for us. Also, he made a sheet with a bunch of problems on it so we can use it to practice because he saw the class was struggling with it. I haven't seen this level of care from any other professor and i believe this professor should continue doing what he is doing."
+
+
+"This professor is simply amazing. Tries his hardest to help you learn the material and to succeed in the course. Truly cares about his students and their academic standing."
+
+
+"Instructor was enthusiastic about course which made it more interesting than listening to a monotone mundane professor who only cared because of his/her pension. The instructor also didn't assume you knew certain things and didn't make you feel "dumb". Great respect was shown to each student and his/her questions."
+
+
+"I loved " think outside of the box" exam questions. I think John Thomas is very talented teacher. He was always prepared and the most important engaged in his classroom. "
+
+
+"The instructor has increased my confidence in Calculus.He is the best maths instructor I have ever met."
+
+
+"Instructor explained carefully the meaning of each lesson and examples so that i wasn't just a notebook copying down formulas but that I actually understood the lessons."
+    
+    
+"Constantly encouraged us to ask questions if we had any trouble. Motivated us to not be intimidated by the concepts but instead tackle them with an open mind. "
+    
+    
+"This course is now in my top two favorite courses I've taken since I've begun college. The other is also my previous math course and I had never really liked math."
+    
+    
+"I really liked the professor and how he not only just gave us a formula and taught us how to do it, but he made sure we understood why we were doing that. I also liked that he tried to use analogies and examples in order to help the students understand better."
+    
+    
+"Is probably one of the best math classes I have had. The fact that we had to justify answers in exams, forced me to not only just plug in a formula but also know the purpose of it. "
+
+
+"Professor clearly put in plenty, if not, a surplus of effort to teaching the course and getting his ideology about learning across to his students. Very rare in Rutgers professors."
